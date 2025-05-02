@@ -90,5 +90,5 @@
 <h3 align="left">🐍 Snake animation:</h3>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Guilhermesttt/Guilhermesttt/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Guilhermesttt/Guilhermesttt/output/snake.svg" alt="Snake animation" />
 </div>
