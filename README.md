@@ -45,6 +45,21 @@ const guilherme = {
 
 ---
 
+## 📚 Currently Diving Deep Into
+
+<div align="center">
+
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+**🎯 2024 Goals:** Master the Java ecosystem and cloud deployment
+
+</div>
+
+---
+
 ## 🛠️ Tech Arsenal
 
 <div align="center">
@@ -76,6 +91,7 @@ const guilherme = {
 ### 🛠️ Tools & Others
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
@@ -120,11 +136,32 @@ const guilherme = {
 
 **💈 Barbearia Premium**
 <br>
+🛠️ `React • Node.js • MongoDB • Tailwind CSS`
+<br>
+📝 Complete booking system with admin panel, notifications and payment integration
+<br><br>
 <a href="https://barbearia-premium.netlify.app/">
 <img src="https://img.shields.io/badge/Live%20Demo-netlify-%2300C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
 </a>
+<a href="#">
+<img src="https://img.shields.io/badge/Code-github-%23121011?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+<td width="50%">
+
+**⚖️ Raissa Santana Advocacia**
 <br>
-*Online booking system for barbershops with modern design*
+🛠️ `React • Next.js • TypeScript • Tailwind CSS`
+<br>
+📝 Professional responsive landing page with contact forms and SEO optimization
+<br><br>
+<a href="https://raissasantanadv.netlify.app/">
+<img src="https://img.shields.io/badge/Live%20Demo-netlify-%2300C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+</a>
+<a href="#">
+<img src="https://img.shields.io/badge/Code-github-%23121011?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </td>
 </tr>
@@ -132,24 +169,34 @@ const guilherme = {
 <tr>
 <td width="50%">
 
-**⚖️ Raissa Santana Advocacia**
+**🌿 Sereno Health**
 <br>
-<a href="https://raissasantanadv.netlify.app/">
+🛠️ `React • Node.js • Socket.io • MongoDB`
+<br>
+📝 Mental health social network with real-time chat, posts and professional matching
+<br><br>
+<a href="https://sereno-health.netlify.app/">
 <img src="https://img.shields.io/badge/Live%20Demo-netlify-%2300C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
 </a>
-<br>
-*Professional landing page for law firm*
+<a href="#">
+<img src="https://img.shields.io/badge/Code-github-%23121011?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </td>
 <td width="50%">
 
-**🌿 Sereno Health**
+**📋 Task Manager Pro**
 <br>
-<a href="https://sereno-health.netlify.app/">
-<img src="https://img.shields.io/badge/Live%20Demo-netlify-%2300C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+🛠️ `Java • Spring Boot • MySQL • React`
+<br>
+📝 Full-stack task management with JWT authentication and REST API
+<br><br>
+<a href="#">
+<img src="https://img.shields.io/badge/Live%20Demo-vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-<br>
-*Mental health social network with real-time chat*
+<a href="#">
+<img src="https://img.shields.io/badge/Code-github-%23121011?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </td>
 </tr>
@@ -159,10 +206,31 @@ const guilherme = {
 
 ---
 
+## 💻 My Development Process
+
+<div align="center">
+  
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300">
+
+**🚀 How I Work:**
+<br>
+☕ Coffee → 💡 Ideas → 🔥 Code → 🎵 Music → 🚀 Deploy
+<br><br>
+
+**🎯 My Approach:**
+- 🎨 **Design First** - Plan the UI/UX before coding
+- 🔧 **Problem Solver** - Break complex challenges into simple solutions  
+- 🧪 **Test Driven** - Quality assurance is key
+- 🚀 **Ship Fast** - Iterative development and quick deployment
+
+</div>
+
+---
+
 ## 🎵 When I'm Not Coding
 
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31k6hzp2omr55mfn7jz7ukk6ufjm&cover_image=true&theme=novatorem&show_offline=false&background_color=121212" />
 </div>
 
 ```
@@ -170,6 +238,8 @@ const guilherme = {
 🎮 Developing indie games with Unity
 🌱 Learning new technologies
 ☕ Drinking coffee and debugging code
+🏃‍♂️ Running and staying active
+📚 Reading tech blogs and game dev articles
 ```
 
 ---
@@ -182,10 +252,50 @@ const guilherme = {
 
 ---
 
+## 💡 Fun Stats & Facts
+
+<div align="center">
+
+| 📊 **GitHub Stats** | 🔥 **Streak** |
+|:---:|:---:|
+| ![Guilherme's Stats](https://github-readme-stats.vercel.app/api?username=Guilhermesttt&theme=tokyonight&show_icons=true&count_private=true) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Guilhermesttt&theme=tokyonight) |
+
+**🎯 2024 Achievements:**
+- ✅ Completed 10+ freelance projects
+- ✅ Learned Java & Spring Boot
+- ✅ Built 3 indie games
+- 🔄 Currently: Expanding to microservices architecture
+
+</div>
+
+---
+
+<div align="center">
+  
+### 🤝 Let's Build Something Amazing Together!
+
+Looking for collaboration on web development or game projects? Let's connect!
+
+<a href="mailto:dev.guilhermesantana@gmail.com">
+<img src="https://img.shields.io/badge/📧%20Get%20In%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/guilherme-lima-de-sant-ana-b243aa359/">
+<img src="https://img.shields.io/badge/💼%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://devguilhermesantana.netlify.app/">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" />
+</a>
+
+</div>
+
+---
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Guilhermesttt&color=blueviolet&style=flat-square&label=Profile+Views" />
   
   ### 💭 *"Code is like music. When it's good, you feel it."* 🎵
   
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
+  
+  **Thanks for visiting! ⭐ Star some repos if you found them interesting!**
 </div>
