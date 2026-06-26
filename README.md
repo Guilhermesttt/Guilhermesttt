@@ -11,6 +11,7 @@
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-lima-de-sant-ana-b243aa359/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/guilhermesttt.dev_/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.guilhermesantana@gmail.com)
 
 </div>
@@ -121,10 +122,23 @@ const guilherme = {
 
 <div align="center">
 
-### 🌟 Web Applications
+### 🤝 Freelance / Client Work
 
 <table>
 <tr>
+<td width="50%">
+
+**⚖️ Barros & Almeida Advocacia**
+<br>
+🛠️ `React • TypeScript • Tailwind CSS`
+<br>
+📝 Full law firm website with custom domain, team profiles, blog posts, FAQ and WhatsApp contact integration
+<br><br>
+<a href="https://barrosalmeidaadv.com.br/">
+<img src="https://img.shields.io/badge/Live%20Demo-website-%23000000?style=for-the-badge&logo=firefox&logoColor=white" />
+</a>
+
+</td>
 <td width="50%">
 
 **⚖️ Raissa Santana Advocacia**
@@ -138,6 +152,26 @@ const guilherme = {
 </a>
 
 </td>
+</tr>
+</table>
+
+### 🌟 Personal Projects
+
+<table>
+<tr>
+<td width="50%">
+
+**🎮 Checkpoint Launcher**
+<br>
+🛠️ `React • TypeScript • Steam API • Tailwind CSS`
+<br>
+📝 Online game library dashboard with Steam sync, achievements, screenshots and a PS5-inspired interface
+<br><br>
+<a href="https://checkpoint-launcher.netlify.app/">
+<img src="https://img.shields.io/badge/Live%20Demo-netlify-%2300C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+</a>
+
+</td>
 <td width="50%">
 
 **🌿 Sereno Health**
@@ -147,6 +181,34 @@ const guilherme = {
 📝 Mental health social network with real-time chat, posts and professional matching
 <br><br>
 <a href="https://sereno-health.netlify.app/">
+<img src="https://img.shields.io/badge/Live%20Demo-netlify-%2300C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🐉 Lead The Dragon**
+<br>
+🛠️ `React • TypeScript • Framer Motion • Tailwind CSS`
+<br>
+📝 Fan site for an indie racing game — factions, game modes, lore and community hub
+<br><br>
+<a href="https://lead-the-dragon.netlify.app/">
+<img src="https://img.shields.io/badge/Live%20Demo-netlify-%2300C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+</a>
+
+</td>
+<td width="50%">
+
+**🍄 The Last of Us Part I**
+<br>
+🛠️ `React • CSS • JavaScript`
+<br>
+📝 UI recreation project replicating the game's visual identity — built to practice React and interface design
+<br><br>
+<a href="https://tlou-remastered-br.netlify.app/">
 <img src="https://img.shields.io/badge/Live%20Demo-netlify-%2300C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
 </a>
 
@@ -234,9 +296,7 @@ Looking for collaboration on web development or game projects? Let's connect!
 <a href="https://www.linkedin.com/in/guilherme-lima-de-sant-ana-b243aa359/">
 <img src="https://img.shields.io/badge/💼%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://devguilhermesantana.netlify.app/">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" />
-</a>
+
 
 </div>
 
