@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Guilherme+%F0%9F%91%8B;Fullstack+Developer+%F0%9F%92%BB;Indie+Game+Creator+%F0%9F%8E%AE;Guitar+Enthusiast+%F0%9F%8E%B8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Guilherme+%F0%9F%91%8B;Frontend+Developer+%F0%9F%92%BB;Indie+Game+Creator+%F0%9F%8E%AE;Guitar+Enthusiast+%F0%9F%8E%B8" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -11,9 +11,7 @@
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-lima-de-sant-ana-b243aa359/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/guilhermesttt.dev_/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.guilhermesantana@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://devguilhermesantana.netlify.app/)
 
 </div>
 
@@ -24,9 +22,9 @@
 ```javascript
 const guilherme = {
     location: "Brazil 🇧🇷",
-    role: "Fullstack Developer",
+    role: "Frontend Developer",
     workingOn: "Web Applications & Indie Games",
-    learning: ["Java", "MySQL", "Spring Boot"],
+    learning: ["Node.js", "React Native", "TypeScript"],
     hobbies: ["🎸 Playing Guitar", "🎮 Game Development", "💻 Coding"],
     funFact: "I turn coffee into code ☕ → 💻"
 };
@@ -35,10 +33,10 @@ const guilherme = {
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
 
 - 🔭 Currently working on **freelance web projects**
-- 🌱 Learning **Java + Spring Boot + MySQL**
+- 🌱 Learning **React Native & Node.js**
 - 👯 Open to collaborate on **open source projects**
 - 🎮 Building indie games with **Unity & C#**
-- 💬 Ask me about **React, Node.js, or game development**
+- 💬 Ask me about **React, TypeScript, or game development**
 - ⚡ Fun fact: **I debug with music on 🎵**
 
 <br clear="both" />
@@ -49,12 +47,11 @@ const guilherme = {
 
 <div align="center">
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-**🎯 2024 Goals:** Master the Java ecosystem and cloud deployment
+**🎯 2025 Goals:** Ship production-ready apps and level up on backend fundamentals
 
 </div>
 
@@ -75,13 +72,10 @@ const guilherme = {
 
 ### ⚙️ Backend
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 ### 🗄️ Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 ### 🎮 Game Development
@@ -91,7 +85,6 @@ const guilherme = {
 ### 🛠️ Tools & Others
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
@@ -134,22 +127,6 @@ const guilherme = {
 <tr>
 <td width="50%">
 
-**💈 Barbearia Premium**
-<br>
-🛠️ `React • Node.js • MongoDB • Tailwind CSS`
-<br>
-📝 Complete booking system with admin panel, notifications and payment integration
-<br><br>
-<a href="https://barbearia-premium.netlify.app/">
-<img src="https://img.shields.io/badge/Live%20Demo-netlify-%2300C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-</a>
-<a href="#">
-<img src="https://img.shields.io/badge/Code-github-%23121011?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-<td width="50%">
-
 **⚖️ Raissa Santana Advocacia**
 <br>
 🛠️ `React • Next.js • TypeScript • Tailwind CSS`
@@ -159,14 +136,8 @@ const guilherme = {
 <a href="https://raissasantanadv.netlify.app/">
 <img src="https://img.shields.io/badge/Live%20Demo-netlify-%2300C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
 </a>
-<a href="#">
-<img src="https://img.shields.io/badge/Code-github-%23121011?style=for-the-badge&logo=github&logoColor=white" />
-</a>
 
 </td>
-</tr>
-
-<tr>
 <td width="50%">
 
 **🌿 Sereno Health**
@@ -177,25 +148,6 @@ const guilherme = {
 <br><br>
 <a href="https://sereno-health.netlify.app/">
 <img src="https://img.shields.io/badge/Live%20Demo-netlify-%2300C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-</a>
-<a href="#">
-<img src="https://img.shields.io/badge/Code-github-%23121011?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-<td width="50%">
-
-**📋 Task Manager Pro**
-<br>
-🛠️ `Java • Spring Boot • MySQL • React`
-<br>
-📝 Full-stack task management with JWT authentication and REST API
-<br><br>
-<a href="#">
-<img src="https://img.shields.io/badge/Live%20Demo-vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="#">
-<img src="https://img.shields.io/badge/Code-github-%23121011?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
@@ -260,11 +212,11 @@ const guilherme = {
 |:---:|:---:|
 | ![Guilherme's Stats](https://github-readme-stats.vercel.app/api?username=Guilhermesttt&theme=tokyonight&show_icons=true&count_private=true) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Guilhermesttt&theme=tokyonight) |
 
-**🎯 2024 Achievements:**
-- ✅ Completed 10+ freelance projects
-- ✅ Learned Java & Spring Boot
-- ✅ Built 3 indie games
-- 🔄 Currently: Expanding to microservices architecture
+**🎯 2025 Goals:**
+- 🔄 Ship the Meu Cesto app to production
+- 🔄 Deepen React Native skills
+- 🔄 Build and launch more freelance projects
+- 🔄 Expand into backend with Node.js
 
 </div>
 
