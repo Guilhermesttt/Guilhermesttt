@@ -179,7 +179,6 @@ UI recreation of the game's visual identity
 
 <a href="mailto:dev.guilhermesantana@gmail.com"><img src="https://img.shields.io/badge/GET%20IN%20TOUCH-C9552D?style=for-the-badge&logo=gmail&logoColor=F5F2EA"/></a>
 <a href="https://www.linkedin.com/in/guilherme-lima-de-sant-ana-b243aa359/"><img src="https://img.shields.io/badge/LINKEDIN-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=F5F2EA"/></a>
-<a href="https://www.instagram.com/guilhermesttt.dev_/"><img src="https://img.shields.io/badge/INSTAGRAM-0A0A0A?style=for-the-badge&logo=instagram&logoColor=F5F2EA"/></a>
 
 <br/><br/>
 
