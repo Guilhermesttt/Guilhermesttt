@@ -4,12 +4,11 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&weight=700&pause=1200&color=F5F2EA&vCenter=true&width=520&height=45&lines=building+web+apps+%26+indie+games;react+%2B+typescript+%2B+coffee;debugging+with+a+guitar+nearby" />
+<img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&weight=700&pause=1200&color=F5F2EA&center=true&vCenter=true&width=520&height=45&lines=building+web+apps+%26+indie+games;react+%2B+typescript+%2B+coffee;debugging+with+a+guitar+nearby" />
 
 <br/>
 
 <a href="https://www.linkedin.com/in/guilherme-lima-de-sant-ana-b243aa359/"><img src="https://img.shields.io/badge/LINKEDIN-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=F5F2EA" /></a>
-<a href="https://www.instagram.com/guilhermesttt.dev_/"><img src="https://img.shields.io/badge/INSTAGRAM-0A0A0A?style=for-the-badge&logo=instagram&logoColor=F5F2EA" /></a>
 <a href="mailto:dev.guilhermesantana@gmail.com"><img src="https://img.shields.io/badge/EMAIL-C9552D?style=for-the-badge&logo=gmail&logoColor=F5F2EA" /></a>
 
 </div>
@@ -57,6 +56,8 @@ const guilherme = {
 <br/>
 <img src="https://img.shields.io/badge/node.js-0A0A0A?style=for-the-badge&logo=node.js&logoColor=F5F2EA"/>
 <img src="https://img.shields.io/badge/express-0A0A0A?style=for-the-badge&logo=express&logoColor=F5F2EA"/>
+<img src="https://img.shields.io/badge/python-0A0A0A?style=for-the-badge&logo=python&logoColor=F5F2EA"/>
+<img src="https://img.shields.io/badge/django-0A0A0A?style=for-the-badge&logo=django&logoColor=F5F2EA"/>
 <img src="https://img.shields.io/badge/mongodb-0A0A0A?style=for-the-badge&logo=mongodb&logoColor=F5F2EA"/>
 <img src="https://img.shields.io/badge/firebase-0A0A0A?style=for-the-badge&logo=firebase&logoColor=F5F2EA"/>
 
@@ -112,7 +113,7 @@ Game library dashboard — Steam sync, achievements, PS5-inspired UI
 <td width="50%" valign="top">
 
 **🌿 Sereno Health**
-`React · Node.js · Socket.io · MongoDB`
+`React · Python · Django · Firebase`
 <br/>
 Mental health social network — real-time chat, professional matching
 <br/><br/>
@@ -134,7 +135,7 @@ Fan site for an indie racing game — factions, lore, community hub
 <td width="50%" valign="top">
 
 **🍄 The Last of Us Part I**
-`React · CSS · JavaScript`
+`React · Tailwind · JavaScript`
 <br/>
 UI recreation of the game's visual identity
 <br/><br/>
@@ -168,8 +169,6 @@ UI recreation of the game's visual identity
 <div align="center">
 <img src="https://raw.githubusercontent.com/Guilhermesttt/Guilhermesttt/output/snake.svg" alt="Snake animation" width="100%"/>
 </div>
-
-> Nota: para a cobra ficar preto/laranja igual ao resto, precisa recolorir no workflow do GitHub Actions que gera esse SVG — hoje ele usa a paleta padrão.
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0A0A0A&height=3&width=100%25" width="100%"/>
 
