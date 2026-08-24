@@ -102,12 +102,12 @@ Responsive landing page — contact forms, SEO
 <tr>
 <td width="50%" valign="top">
 
-**🎮 Checkpoint Launcher**
+**🎮 Pherielium Hub**
 `React · TypeScript · Steam API`
 <br/>
 Game library dashboard — Steam sync, achievements, PS5-inspired UI
 <br/><br/>
-<a href="https://checkpoint-launcher.netlify.app/"><img src="https://img.shields.io/badge/VIEW%20LIVE-C9552D?style=for-the-badge&logoColor=F5F2EA"/></a>
+<a href="https://pherielium.netlify.app"><img src="https://img.shields.io/badge/VIEW%20LIVE-C9552D?style=for-the-badge&logoColor=F5F2EA"/></a>
 
 </td>
 <td width="50%" valign="top">
