@@ -28,7 +28,7 @@ const guilherme = {
 };
 ```
 
-- 🔭 Working on freelance web projects + **Checkpoint**, a game launcher with Steam sync and a PS5-inspired UI
+- 🔭 Working on freelance web projects + **Pherielium**, a game launcher with Steam sync and a console inspired UI
 - 🌱 Deepening **React Native** and backend fundamentals with **Node.js**
 - 🎯 2025 goal — ship **Meu Cesto** to production
 - 👯 Open to collaborate on open source projects
